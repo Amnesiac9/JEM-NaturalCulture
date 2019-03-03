@@ -1,0 +1,16 @@
+Added +1 Culture bonus for adjacent Natural Wonders , for the Theater and Acropolis Districts 
+
+Compatible with Gathering Storm. 
+
+Updates:
+- Can be now be added to ongoing games.
+- en_US Localization added.
+- Correctly indicates the mods compatibility with GS in the modinfo files.
+
+-----------
+
+- Original Mod Author: Isukaci 
+
+- Updated and Localization added by: Amnesiac
+
+The original Mod is also compatible with Gathering Storm, but did not indicate so. This version is updated to include the correct localization when building a Theater District next to a natural wonder. This version also allows the mod to be added to ongoing save games.
