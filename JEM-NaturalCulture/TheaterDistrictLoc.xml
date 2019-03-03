@@ -3,7 +3,7 @@
     <LocalizedText>
         <Row Tag="LOC_NATURALCULTURE"
              Language="en_US">
-            <Text>+1 [ICON_Culture] Culture from the adjacent Natural Wonder.</Text>
+            <Text>+1 [ICON_Culture] Culture from the adjacent Natural Wonders.</Text>
         </Row>   
     </LocalizedText>
 </GameData>
