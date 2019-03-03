@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="48D2EBDE-49EA-8F68-6189-36C234B9333B" version="1">
+  <Properties>
+    <Name>JEM - Natural Culture</Name>
+    <Description>Standard Culture bonus for adjacent Natural Wonders on Theater and Acropolis District</Description>
+    <Teaser>Bonus on adjacent Natural Wonders for Theater</Teaser>
+    <Authors>Isukaci, Amnesiac</Authors>
+	<CompatibleVersions>2.0</CompatibleVersions>
+	<AffectsSavedGames>0</AffectsSavedGames>
+  </Properties>
+  <InGameActions>
+  
+    <UpdateDatabase id="GameData">
+      <File>TheaterDistrict.sql</File>
+    </UpdateDatabase>
+	
+	<UpdateText id="Text">
+      <File>TheaterDistrictLoc.xml</File>
+    </UpdateText>
+	
+	<UpdateText id="TextSQL">
+      <Properties>
+        <LoadOrder>2501</LoadOrder>
+      </Properties>
+      <File>TheaterDistrict.sql</File>
+    </UpdateText>
+  </InGameActions>
+  
+  <Files>
+    <File>TheaterDistrict.sql</File>
+	<File>TheaterDistrictLoc.xml</File>
+  </Files>
+</Mod>
