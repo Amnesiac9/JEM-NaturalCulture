@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mod id="48D2EBDE-49EA-8F68-6189-36C234B9333B" version="1">
+
   <Properties>
     <Name>JEM - Natural Culture</Name>
     <Description>Standard Culture bonus for adjacent Natural Wonders on Theater and Acropolis Districts</Description>
@@ -24,6 +25,7 @@
       </Properties>
       <File>TheaterDistrict.sql</File>
     </UpdateText>
+	
   </InGameActions>
   
   <Files>
